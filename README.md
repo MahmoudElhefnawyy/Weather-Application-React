@@ -19,7 +19,7 @@ You can view a live demo of the app at: [https://your-username.github.io/weather
 
 ## Screenshots
 
-![Weather App Screenshot](https://raw.githubusercontent.com/your-username/weather-app/master/screenshot.png)
+![Weather App Screenshot](https://drive.google.com/file/d/146TtfVzUyNl3rtOA5Sm4aJ2jXqYu7OVR/view?usp=drivesdk)
 
 ## Getting Started
 
