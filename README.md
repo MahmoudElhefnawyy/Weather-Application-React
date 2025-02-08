@@ -31,7 +31,7 @@ The app uses the OpenWeatherMap API to fetch weather data. You can find the API 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/weather-app/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MahmoudElhefnawyy/weather-app/blob/master/LICENSE) file for details.
 
 ## Contributing
 
